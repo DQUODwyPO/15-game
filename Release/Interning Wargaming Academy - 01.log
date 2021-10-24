@@ -1,0 +1,39 @@
+﻿  Source.cpp
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(24,10): warning C4244: return: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(51,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(52,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(103,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(104,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(152,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(153,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Games\Projects\Interning Wargaming Academy - 01\Interning Wargaming Academy - 01\classes.h(314,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  5 of 303 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Interning Wargaming Academy - 01.vcxproj -> C:\Games\Projects\Interning Wargaming Academy - 01\Release\Interning Wargaming Academy - 01.exe
